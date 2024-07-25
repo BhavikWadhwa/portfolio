@@ -600,6 +600,9 @@ img#cuvrr {
     .left-sidebar-heading{
         align-items: center;
     }
+    #background-video{
+        display:none;
+    }
 }
 
 
