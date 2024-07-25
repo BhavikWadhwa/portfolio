@@ -634,6 +634,13 @@ button.slick-next.slick-arrow {
 
 /* Mobile View - 400px and tablet view */
 @media screen and (max-width: 820px) {
+    html {scroll-behavior: smooth;}
+#background-video {
+    display:none;
+
+    
+}
+    
     .first {
       flex-direction: column;
     }
