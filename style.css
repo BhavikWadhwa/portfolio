@@ -24,7 +24,7 @@ html {scroll-behavior: smooth;}
 }
 .first{
     display: flex;
-    flex-direction: row;
+    flex-direction: row!important;
     justify-content: space-around;
     width: 100%;
    
